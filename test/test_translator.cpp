@@ -1,3 +1,4 @@
-//
-// Created by Gleb Zakharov on 22.11.2026.
-//
+#include "translator.h"
+#include <gtest.h>
+
+

@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.5)
 
-set(PROJECT_NAME matrix)
+set(PROJECT_NAME translator)
 project(${PROJECT_NAME})
 
 # TODO(Kornyakov): not sure if these lines are needed
