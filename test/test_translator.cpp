@@ -1,5 +1,7 @@
 #include "translator.h"
 #include <gtest.h>
+#include <memory>
+#include <iostream>
 
 
 namespace {
