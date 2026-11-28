@@ -10,7 +10,7 @@ constexpr size_t MAX_VECTOR_SIZE = 100000000;
 constexpr size_t COEFF = 2;
 
 // for comparing double with zero
-constexpr double COMPARE_NUM = 0.000001;
+constexpr double COMPARE_NUM = 0.0000001;
 
 template<typename T>
 class Vector
